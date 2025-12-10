@@ -1,1 +1,2 @@
-# An h1 header
+# Divine Octocat
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
